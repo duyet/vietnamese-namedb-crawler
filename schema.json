@@ -1,8 +1,7 @@
 {
-  "name": "string",
-  "family_name": "string",
-  "middle_name": "string",
-  "given_name": "string",
-  "gender": "string",
-  "origin": "string"
+  "first_name": "string",
+  "last_name": "string",
+  "full_name": "string",
+  "last_name_group": "string",
+  "gender": "string"
 }
