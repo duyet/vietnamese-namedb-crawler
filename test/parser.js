@@ -2,6 +2,7 @@ var Parser = require('../lib').Parser
 
 var testList = [
   'Duyet',
+  'duyet',
   'Van Duyet',
   'Le Van Duyet',
   'Nguyen Hoang Vinh Nghi',
