@@ -1,0 +1,38 @@
+{
+  "name": "vietnamese-namedb",
+  "version": "1.0.0",
+  "description": "Vietnamese Names Database. Contains surnames or family names. Auto extract from Crawler and Machine Learning",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duyetdev/vietnamese-namedb.git"
+  },
+  "keywords": [
+    "name",
+    "vietnamese",
+    "namedb",
+    "library",
+    "ml",
+    "machine",
+    "learning",
+    "database",
+    "json",
+    "crawler",
+    "extract"
+  ],
+  "author": "Van-Duyet Le <me@duyetdev.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duyetdev/vietnamese-namedb/issues"
+  },
+  "homepage": "https://github.com/duyetdev/vietnamese-namedb#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
