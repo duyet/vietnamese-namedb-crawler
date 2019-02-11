@@ -33,6 +33,6 @@
   },
   "homepage": "https://github.com/duyetdev/vietnamese-namedb#readme",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.11"
   }
 }
